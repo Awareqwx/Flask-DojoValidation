@@ -1,0 +1,22 @@
+body{
+    font-family: Arial
+}
+
+form{
+    border: 2px solid black;
+    padding: 10px;
+    width: 280px
+}
+
+form *{
+    margin: 10px 0 0 0;
+}
+
+textarea{
+    width: 90%;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+}
